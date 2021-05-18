@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     flagpoleBigger:{
         height: 28,
         width:4,
-        marginLeft: 3,
+        marginLeft: 16,
     },
     flagBigger:{
         height: 10,
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     base2Bigger:{
         height: 4,
         width: 20,
-        marginTop: 8,
-        marginLeft: 24
+        marginTop: 24,
+        marginLeft: 8
     }
 })
